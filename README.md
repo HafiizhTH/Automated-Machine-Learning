@@ -18,7 +18,9 @@ Whereas, Automated Machine Learning (AutoML) is an approach that automates the e
 
 ## How to Automate Machine Learning Work?
 
-![image](https://github.com/user-attachments/assets/8ebb297b-92f8-41ad-bc9e-bc8e4b444dfd)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/8ebb297b-92f8-41ad-bc9e-bc8e4b444dfd" alt="image">
+</div>
 
 The Automated Training Model works as follows:
 1. Data Preprocessing: The data used in the model has gone through a preprocessing stage or is already in a clean condition. This preprocessing includes data cleaning, normalization, and transformations needed to make the data ready for further processing by the model. Clean and well-structured data can be directly inputted into the model without the need for additional intervention.
