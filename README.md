@@ -4,9 +4,9 @@ Automated Machine Learning is a system designed to automate the process of train
 
 ## What is the difference between Traditional ML and Automated ML??
 
-![image](https://github.com/user-attachments/assets/6349a51d-f43b-42e2-804f-903826d60e0a)
-
 Traditional Machine Learning refers to the conventional process of manually developing machine learning models. This process usually involves a series of iterative steps that require expertise in data preprocessing, feature engineering, model selection, and hyperparameter tuning. Each step requires human intervention to optimize the model for a particular problem.
+
+![image](https://github.com/user-attachments/assets/6349a51d-f43b-42e2-804f-903826d60e0a)
 
 Whereas, Automated Machine Learning (AutoML) is an approach that automates the entire machine learning path, from data preprocessing to model selection and hyperparameter optimization. AutoML systems aim to make machine learning more accessible to non-experts by reducing the need for manual intervention, so that data scientists and business analysts can focus on higher-level tasks.
 
