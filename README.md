@@ -1,5 +1,7 @@
 # What is Automated Machine Learning?
 
+![image](https://github.com/user-attachments/assets/10a9ab18-e52f-4c4b-8b1c-313ece98e3cd)
+
 Automated Machine Learning is a system designed to automate the process of training machine learning models. It integrates various stages from preprocessing, to model evaluation automatically, reducing manual involvement and enabling faster and more consistent training.
 
 ## What is the difference between Traditional ML and Automated ML??
